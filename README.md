@@ -10,3 +10,8 @@ Movement: arrow keys
 Jump: shift
 
 (We plan to add more levels to the game... stay tuned)
+
+
+![image1](https://github.com/DanielaDonia/ShinChanGame/assets/147919505/c5bdd5d1-4f3e-4801-b88d-9f852d1e343d)
+
+![image2](https://github.com/DanielaDonia/ShinChanGame/assets/147919505/841c0bf3-2401-4845-b5a6-fc0b3e3920d9)
